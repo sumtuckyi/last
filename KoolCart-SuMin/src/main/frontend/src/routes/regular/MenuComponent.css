@@ -1,0 +1,5 @@
+.ant-menu-submenu-popup{
+    position: relative;
+    z-index: 1700;
+    width: fit-content;
+}
